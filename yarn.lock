@@ -4454,10 +4454,10 @@ netmask@^1.0.6:
   resolved "https://registry.yarnpkg.com/netmask/-/netmask-1.0.6.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
   integrity sha1-ICl+idhvb2QA8lDZ9Pa0wZRfzTU=
 
-next-i18next@^8.0.2:
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/next-i18next/-/next-i18next-8.0.2.tgz#8d594058a88b1dd843826df5454acea232eec8e4"
-  integrity sha512-8CNkDSivGa//aVFX6uYTTEPVqDfvIF0dIM7HmDx4fnzo0XcCvZ5OWJ6NvmeqykObIU8KL7H/x/kg3IUkl1JtPA==
+next-i18next@^8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/next-i18next/-/next-i18next-8.0.3.tgz#59e43e2e5cf0c17f5c014186c9e7ff5777c38c00"
+  integrity sha512-sRghrRPGtOki4566UDarMOa2RGDczjJZbsB9FexmykvXdAJFsLAOGjtI6uof7rnbJYcUYPZuhxuhXn3+Mzb0SA==
   dependencies:
     core-js "^3"
     hoist-non-react-statics "^3.2.0"
