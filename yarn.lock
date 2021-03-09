@@ -539,13 +539,19 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^17.0.2":
-  version "17.0.2"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.2.tgz#3de24c4efef902dd9795a49c75f760cbe4f7a5a8"
-  integrity sha512-Xt40xQsrkdvjn1EyWe1Bc0dJLcil/9x2vAuW7ya+PuQip4UYUaXyhzWmAbwRsdMgwOFHpfp7/FFZebDU6Y8VHA==
+"@types/react@*", "@types/react@^17.0.3":
+  version "17.0.3"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.3.tgz#ba6e215368501ac3826951eef2904574c262cc79"
+  integrity sha512-wYOUxIgs2HZZ0ACNiIayItyluADNbONl7kt8lkLjVK8IitMH5QMyAh75Fwhmo37r1m7L2JaFj03sIfxBVDvRAg==
   dependencies:
     "@types/prop-types" "*"
+    "@types/scheduler" "*"
     csstype "^3.0.2"
+
+"@types/scheduler@*":
+  version "0.16.1"
+  resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.1.tgz#18845205e86ff0038517aab7a18a62a6b9f71275"
+  integrity sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA==
 
 "@types/serve-static@*":
   version "1.13.9"
@@ -2586,10 +2592,10 @@ firebase-functions@^3.13.2:
     express "^4.17.1"
     lodash "^4.17.14"
 
-firebase-tools@^9.5.0:
-  version "9.5.0"
-  resolved "https://registry.yarnpkg.com/firebase-tools/-/firebase-tools-9.5.0.tgz#7d7448d87c1d4e38feaef04bd194d6904511fa99"
-  integrity sha512-M73hIhqfdzGO4eMAd+Jj8V2RPG1KDmhjdnHQaZsJOwmPXyX4eBeOO7dpeHTXU5bYg8AeHVzkCOcLobBcXgYxZw==
+firebase-tools@^9.6.0:
+  version "9.6.0"
+  resolved "https://registry.yarnpkg.com/firebase-tools/-/firebase-tools-9.6.0.tgz#1dabe1c20b8b5bae0d3bc80b715d39b326380b4d"
+  integrity sha512-2r/dATLJKPqSbGQilJtJTHt1AhIza9msXFVrOEtaPohpCzOFcGdXJVBaoqmfx4tpbM7qiKw/+Ro+jo6PzdMEwQ==
   dependencies:
     "@google-cloud/pubsub" "^2.7.0"
     "@types/archiver" "^5.1.0"
@@ -4412,10 +4418,10 @@ netmask@^1.0.6:
   resolved "https://registry.yarnpkg.com/netmask/-/netmask-1.0.6.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
   integrity sha1-ICl+idhvb2QA8lDZ9Pa0wZRfzTU=
 
-next-i18next@^8.0.6:
-  version "8.0.6"
-  resolved "https://registry.yarnpkg.com/next-i18next/-/next-i18next-8.0.6.tgz#879bcec40c6e06b48f8983d55f9c1cd1ef93244a"
-  integrity sha512-XvSWf1w71mdc6rFzfI7DkiJ25qq9F5QcLPOmyi7YUVjVl6wPh3wntXyEGtaFTKpegEPM1iDR0daG69jn75mW4A==
+next-i18next@^8.1.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/next-i18next/-/next-i18next-8.1.0.tgz#40dae8093adb0a412914dce9af2f33b6169d5afb"
+  integrity sha512-IagAZumU+SVDKRQCuiNONznRe5qz92Ic1SslH6+NL9FEMLjeVI/Mv5hMB8RJlqFyyR/Cl187gbsV7UQxGyrtTg==
   dependencies:
     "@types/hoist-non-react-statics" "^3.3.1"
     "@types/i18next-fs-backend" "^1.0.0"
