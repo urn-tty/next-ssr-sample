@@ -512,6 +512,7 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-15.0.0.tgz#557dd0da4a6dca1407481df3bbacae0cd6f68042"
   integrity sha512-YN1d+ae2MCb4U0mMa+Zlb5lWTdpFShbAj5nmte6lel27waMMBfivrm0prC16p/Di3DyTrmerrYUT8/145HXxVw==
 
+
 "@types/node@^10.10.0":
   version "10.17.51"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.51.tgz#639538575befbcf3d3861f95c41de8e47124d674"
